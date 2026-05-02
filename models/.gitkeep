@@ -1,0 +1,4 @@
+# Place your downloaded model artifacts here:
+# - ser_cnn_lstm.pth         (PyTorch model weights)
+# - label_encoder.pkl        (Scikit-learn LabelEncoder)
+# - confusion_matrix.png     (Evaluation plot)

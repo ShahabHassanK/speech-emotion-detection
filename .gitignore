@@ -1,0 +1,47 @@
+# Sample data (test audio/video files)
+sample-data/
+
+# Python
+__pycache__/
+*.py[cod]
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Environment Variables
+.env
+
+
+# Jupyter Notebooks — ignore checkpoints, track the notebook itself
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+
+# Logs
+*.log
+
+# Audio / Video test files
+*.wav
+*.mp3
+*.ogg
+*.flac
+*.m4a
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+
+# Markdown — only README.md is allowed
+*.md
+!README.md
