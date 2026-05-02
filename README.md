@@ -15,10 +15,10 @@ A deep learning system that classifies **8 distinct human emotions** from raw vo
 
 ## 📸 Application Highlights
 
-**Upload Interface**
+### Upload Interface
 ![Upload Page](viz/uploadpage.PNG)
 
-**Detailed Emotion Analysis Result**
+### Detailed Emotion Analysis Result
 ![Results Page](viz/results.png)
 
 ---
