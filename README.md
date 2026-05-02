@@ -250,9 +250,9 @@ Speech Recognition/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/shahabhassank/speech-emotion-recognition.git
-cd speech-emotion-recognition
-```
+git clone https://github.com/shahabhassank/speech-emotion-detection.git
+cd speech-emotion-detection
+``
 
 ### 2. Create a virtual environment
 
